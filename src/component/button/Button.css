@@ -1,0 +1,14 @@
+.App-button {
+    display: inline-block;
+    margin: 5px 3px 0 3px;
+    width: 90px;
+    height: 40px;
+    border: none;
+    border-radius: 3px/3px;
+    font-size: 15px;
+
+}
+
+.App-button:active {
+    background-color: darkgray;
+}
