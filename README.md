@@ -1,6 +1,6 @@
 # Simple React Calculator
 
-This is a simple calculator implemented using React.js.
+This is a simple calculator implemented using React.js. This calculator evaluates multiple terms by converting the infix expression into a postfix expression.
 
 # Getting Started with Create React App
 
