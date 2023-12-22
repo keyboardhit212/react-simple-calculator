@@ -1,4 +1,3 @@
-import Button from '../button/Button';
 import Screen from '../screen/Screen';
 import SimpleInterface from '../interface/SimpleInterface';
 import './Calculator.css';

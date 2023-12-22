@@ -72,7 +72,7 @@ export default class PostfixConverter {
                 this.operatorStack.pop();
             }
         }
-        while (this.operatorStack.length != 0) {
+        while (this.operatorStack.length !== 0) {
             this.resultStack.push(this.operatorStack.pop().symbol);
         }
     }
